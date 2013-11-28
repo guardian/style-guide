@@ -1,4 +1,4 @@
-style-guide
+Guardian style guide
 ===========
 
-Arguments over style are pointless. There should be a style guide, and you should follow it.
+This repository contains the Guardian's in-house style guide for writing clean, coherent and idomatic JavaScript and CSS.
