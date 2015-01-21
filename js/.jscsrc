@@ -73,6 +73,5 @@
   "requireSpaceBeforeBlockStatements": true,
   "requireSpaceBeforeObjectValues": true,
   "requireSpaceBetweenArguments": true,
-  "validateIndentation": 2,
   "validateParameterSeparator": ", "
 }
